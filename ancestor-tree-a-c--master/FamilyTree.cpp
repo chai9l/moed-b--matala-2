@@ -1,6 +1,4 @@
-//
-// Created by dor on 09/04/2020.
-//
+
 #include "FamilyTree.hpp"
 #include <iostream>
 #include <string>
